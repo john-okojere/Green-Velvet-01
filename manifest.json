@@ -1,0 +1,21 @@
+{
+    "name": "Green Velvet",
+    "short_name": "GVelvet",
+    "description": "Green Velvet - Taste of Excellence. Experience delicious African and Intercontinental cuisines in a refreshing ambiance.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#004b23",
+    "icons": [
+      {
+        "src": "https://green-velvet.onrender.com/assets/images/large-removebg-preview%20(1).png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://green-velvet.onrender.com/assets/images/large-removebg-preview%20(1).png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
