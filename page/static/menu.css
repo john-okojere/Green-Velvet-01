@@ -176,7 +176,7 @@ address{ font-style: normal;}
 html{
     font-size: 10px;
     scroll-behavior: smooth;
-    /* background: url(/assets/images/striped-black-wallpaper.jpg
+    /* background: url(assets/images/striped-black-wallpaper.jpg
     ); */
 }
 
@@ -360,7 +360,7 @@ img{
 /* .hero_container{
     color: var(--light-text);
   
-    background-image:url(/assets/images/striped-black-wallpaper.jpg) ;
+    background-image:url(assets/images/striped-black-wallpaper.jpg) ;
     height: 80vh;
     
     
@@ -499,7 +499,7 @@ img{
 }
 
 .section-subtitle::after {
-  content: url('/assets/images/separator.svg');
+  content: url('assets/images/separator.svg');
   display: block;
   width: 100px;
   margin-inline: auto;
@@ -1296,7 +1296,7 @@ textarea.input-field {
 .footer-brand {
   position: relative;
   padding: 50px 40px;
-  background: var(--smoky-black-1) url("/assets/images/footer-form-bg.png");
+  background: var(--smoky-black-1) url("assets/images/footer-form-bg.png");
   background-position: center top;
   background-repeat: repeat;
 }
@@ -1306,7 +1306,7 @@ textarea.input-field {
   top: 0;
   width: 15px;
   height: 100%;
-  background-image: url("/assets/images/footer-form-pattern.svg");
+  background-image: url("assets/images/footer-form-pattern.svg");
 }
 
 .footer-brand::before { left: 0; }
